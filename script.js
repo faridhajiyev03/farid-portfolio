@@ -27,6 +27,9 @@ const translations = {
     "facts.german": "Deutsch",
     "facts.germanValue": "Goethe-Zertifikat B2",
     "facts.english": "Englisch",
+    "facts.englishValue": "Fließend",
+    "facts.russian": "Russisch",
+    "facts.russianValue": "Auf Muttersprachniveau",
     "facts.focus": "Schwerpunkt",
     "facts.focusValue": "Python & Backend-Entwicklung",
 
